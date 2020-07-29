@@ -8,3 +8,5 @@ NMF (Non-negative Matrix Factorization) is a temporal-spatial clustering algorit
 Here we provided a 2.5 minutes of islet Ca2+ images - "C57_Islet_10G.tif" (50 frames, under 10G stimulation), and used NMF to decompose the time-dependent stack into the combination of images of two modes. The algorithm started from two random modes of image stacks in combination with two random time-dependent coefficients.
 
 Run Islet_NMF_RHX function, then you will find after ~100 iterations, two distinct group of cells emerged along with two anti-oscillatory time-dependent coefficients. We have proved they are alpha and beta cells.
+
+We provide a teaching video at https://www.bilibili.com/video/BV1QC4y1b7BC?pop_share=1, Enjoy !
