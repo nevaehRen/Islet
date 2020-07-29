@@ -9,6 +9,7 @@ It included GUI for Islet Ca data analysis based on t-SNE and NMF algorithm
 
 - Run Islet_NMF_RHX function, then you will find after ~100 iterations, two distinct group of cells emerged along with two anti-oscillatory time-dependent coefficients. We have proved they are alpha and beta cells.
 
+We provide a teaching video at https://www.bilibili.com/video/BV1QC4y1b7BC?pop_share=1, Enjoy !
 
 ## t-SNE for Islet Ca traces analysis
 - t-SNE (t-Distributed Stochastic Neighbor Embedding) is a technique that visualize high-dimensional data by mapping the cells in a low dimensional space, and keeps the global structure within the high-dimensional data.
