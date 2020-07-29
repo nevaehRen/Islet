@@ -20,7 +20,4 @@ We provide a teaching video at https://www.bilibili.com/video/BV1QC4y1b7BC?pop_s
 
 - Run the IsletSNE.m file, then click "Load Ca mat" and load the .mat file to GUI. Then click t-SNE button, you will see the beautiful classification results. Two type of cells are alpha and beta cells. Moreover, they are phase-locked during oscillation. 
 
-We provide a teaching video at https://www.bilibili.com/video/BV14A411Y7X7
-
-
-- We also provide a teaching video at www.xxxx.com. Enjoy ! 
+- We also provide a teaching video at https://www.bilibili.com/video/BV14A411Y7X7 Enjoy ! 
